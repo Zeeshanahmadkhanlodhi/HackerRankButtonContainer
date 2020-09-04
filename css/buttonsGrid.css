@@ -1,0 +1,11 @@
+#btns{
+width: 75%; 
+}
+
+button{
+    padding:10px;
+    height: 48px;
+    font-size:24px;
+    width: 30%;
+}
+
